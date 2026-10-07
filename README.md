@@ -1,2 +1,2 @@
 # git-test
-taining and connect git to github
+training and connect git to github
